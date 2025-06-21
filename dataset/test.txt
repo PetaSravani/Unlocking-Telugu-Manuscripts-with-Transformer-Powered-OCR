@@ -1,0 +1,5 @@
+train/201.jpg	ఉంటుందని
+train/202.jpg	ఉంటుందని
+train/203.jpg	ఉంటుందని
+train/204.jpg	ఉంటుందని
+train/205.jpg	ఉంటుందని

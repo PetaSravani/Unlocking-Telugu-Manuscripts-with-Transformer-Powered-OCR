@@ -1,0 +1,5 @@
+train/101.jpg	మూడు
+train/102.jpg	మూడు
+train/103.jpg	మూడు
+train/104.jpg	మూడు
+train/105.jpg	మూడు
